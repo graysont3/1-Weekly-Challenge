@@ -7,14 +7,14 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header should not be a class but a semantic HTML element*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Should only pertain to h1 header*/
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -87,7 +87,7 @@ section {
 section img {
     max-height: 200px;
 }
-
+/* Should only pertain to section h2*/
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -108,7 +108,7 @@ div {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Should only pertain to div h3*/
 div h3 {
     margin-bottom: 10px;
     text-align: center;

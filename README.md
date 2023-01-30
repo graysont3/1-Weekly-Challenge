@@ -11,7 +11,12 @@ N/A
 ## Usage
 
 In order to acess the webpage, please click this link: 
+
+
 This is what the webpage should look like:
-![Horiseon webpage with navigation bar, header image, and section with image and text.](./assets/images/Horiseon-screenshot.html.png)
+![Horiseon webpage with navigation bar, header image, and section with image and text.](./Develop/assets/images/Horiseon-screenshot.html.png)
 
 
+## License
+
+Please refer to the license in Github
