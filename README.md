@@ -11,7 +11,7 @@ N/A
 ## Usage
 
 In order to acess the webpage, please click this link: 
-
+https://graysont3.github.io/1-Weekly-Challenge/ 
 
 This is what the webpage should look like:
 ![Horiseon webpage with navigation bar, header image, and section with image and text.](./Develop/assets/images/Horiseon-screenshot.html.png)
